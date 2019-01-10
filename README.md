@@ -5,7 +5,7 @@
 > -Graphic and Sound Design
 
 2. DongGun Byun [ 변동건 ]
-> -Game System Development
+> -Game System Development and Network
 
 3. TaeKyung Oh [ 오태경 ]
 > -Network Synchronization development
